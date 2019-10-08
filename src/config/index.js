@@ -19,15 +19,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/nsudhanva',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/nsudhanva',
+      url: 'https://linkedin.com/in/nsudhanva',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/nsudhanva',
+      url: 'https://instagram.com/nsudhanva',
     },
     {
       name: 'Twitter',
