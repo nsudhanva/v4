@@ -35,14 +35,14 @@ const Name = styled.h2`
   ${media.phone`font-size: 40px;`};
 `;
 const Subtitle = styled.h3`
-  font-size: 70px;
+  font-size: 60px;
   line-height: 1.1;
   color: ${colors.slate};
 
-  ${media.desktop`font-size: 60px;`};
-  ${media.tablet`font-size: 50px;`};
-  ${media.phablet`font-size: 40px;`};
-  ${media.phone`font-size: 30px;`};
+  ${media.desktop`font-size: 50px;`};
+  ${media.tablet`font-size: 40px;`};
+  ${media.phablet`font-size: 30px;`};
+  ${media.phone`font-size: 20px;`};
 `;
 const Blurb = styled.div`
   margin-top: 25px;

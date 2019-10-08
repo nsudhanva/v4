@@ -5,6 +5,6 @@ subtitle: 'Entrepreneur, Developer and pretty much everything else.'
 contactText: 'Contact Me'
 ---
 
-Founder and Director at [Initiable](https://initiable.com).
+## Founder and Director at [Initiable](https://initiable.com).
 
-I focus mainly on Machine Learning, Artificial Intelligence, DevOps, Full Stack Web Development and more!
+I work mainly on Machine Learning, Artificial Intelligence, DevOps, Full Stack Web Development and more!
