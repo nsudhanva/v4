@@ -102,7 +102,9 @@ const Footer = ({ githubInfo }) => (
         href="https://github.com/bchiang7/v4"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Designed &amp; Built by Brittany Chiang</div>
+        <div>
+          Special thanks to Brittany Chiang for the theme. Check her out on Github by clicking here!
+        </div>
 
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
