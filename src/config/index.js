@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Sudhanva Narayana | Initiable',
-  siteDescription: 'Sudhanva Narayana is a Founder and Directory at Initiable.',
+  siteDescription: 'Sudhanva Narayana is a Founder and Director at Initiable.',
   siteKeywords:
     'Sudhanva Narayana, Sudhanva, Initiable, software engineer, machine learning engineer, aritificial intelligence',
   siteUrl: 'https://sudhanva.me',

@@ -21,7 +21,7 @@ const LoaderContainer = styled.div`
 `;
 const LogoWrapper = styled.div`
   width: max-content;
-  max-width: 100px;
+  max-width: 200px;
   transition: ${theme.transition};
   opacity: ${props => (props.isMounted ? 1 : 0)};
   svg {
@@ -47,7 +47,7 @@ const Loader = ({ finishLoading }) => {
       .add({
         targets: '#logo path',
         delay: 500,
-        duration: 2000,
+        duration: 1000,
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })
