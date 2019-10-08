@@ -2,4 +2,6 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+I'm open for any kind of conversation you'd like to have. My company [Initiable](https://initiable.com) is located at [DCT Academy's](https://dctacademy.com) workspace.
+
+Also, [Initiable](https://initiable.com) is open to any kind of projects.

@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Jobs, Contact } from '@components';
 import styled from 'styled-components';
 import { mixins, Main } from '@styles';
 
@@ -16,8 +16,8 @@ const IndexPage = ({ data }) => (
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
       <Jobs data={data.jobs.edges} />
-      <Featured data={data.featured.edges} />
-      <Projects data={data.projects.edges} />
+      {/* <Featured data={data.featured.edges} /> */}
+      {/* <Projects data={data.projects.edges} /> */}
       <Contact data={data.contact.edges} />
     </MainContainer>
   </Layout>
