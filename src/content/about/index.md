@@ -18,4 +18,4 @@ Hello! I'm Sudhanva, a software engineer based in Bengaluru, India.
 
 Before graduating from [PES University](https://pes.edu/), I founded [Initiable](https://initiable.com/) where I work on building end-to-end systems for machine learning and its applications.
 
-### Here's are few technologies I've been working with recently:
+### Here are few technologies I've been working with recently:
